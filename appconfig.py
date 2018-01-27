@@ -1,0 +1,3 @@
+imgur = dict(
+    auth = 'yourImgurAuthorization',
+)
