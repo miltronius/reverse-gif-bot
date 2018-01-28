@@ -1,7 +1,7 @@
 # reverse-gif-bot
 Custom reverse gif bot for reddit.
 
-Takes an reddit post that links to a gif on imgur, downloads it and reverts it. 
+Takes a reddit post that links to a gif on imgur, downloads it and reverts it. 
 
 Technically, now, it's a python script that scrapes through reddit posts to find linked gifs, downloads the correlating mp4 file (Imgur converts gifs to gifv's which are mp4 files), and reverses it.
 
